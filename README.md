@@ -1,3 +1,2 @@
 # docker_automated_reg
-This is a testing process.
-Test 2
+testing in ec2
